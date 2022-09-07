@@ -1,4 +1,4 @@
-
+!
 ! 特性波速度の計算
 subroutine propagation(sl,sc,sr,u,v,h,g,snm,spec,dd,tsc,poro,hmin)
     implicit none
