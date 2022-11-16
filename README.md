@@ -22,4 +22,4 @@ https://qiita.com/Kazutake/items/a069f86d21ca43b6c153
 
 .vtkファイルは，paraview等のソフトで読み込んで可視化することができます．
 
-*.txtファイル
+*.txtファイルを読み込んで水深のコンター図を作成するpythonコードもアップしています．*.txtが保存されているフォルダのパスをpath_listで指定して実行すれば，図を書き出してくれます．
